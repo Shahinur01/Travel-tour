@@ -32,3 +32,4 @@ export const FakeData = {
         { type: 'helicopter', capacity: 8, rent: 3000,imgURL: "https://i.ibb.co/Tw4pLmS/helicopter.png" },
     ]
 }
+// Happy codding
